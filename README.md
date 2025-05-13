@@ -15,7 +15,7 @@
     - [6. 모니터링 시스템 구축](#6-모니터링-시스템-구축)
     - [7. CI/CD 파이프라인 구축](#7-cicd-파이프라인-구축)
 
-## 프로젝트-개요
+## 프로젝트 개요
 
 [프로젝트 설명](https://github.com/CodIN-INU) / [메인 페이지](https://codin.inu.ac.kr/login) / [Figma](https://www.figma.com/design/Yd7fxwf1Y0LL03i6arejFt/CodIN?node-id=1806-19&t=RCzqo4PNunBsrZSI-1)
 
