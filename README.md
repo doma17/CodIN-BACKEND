@@ -16,7 +16,6 @@
     - [7. CI/CD 파이프라인 구축](#7-cicd-파이프라인-구축)
 
 ## 프로젝트-개요
-Spring Boot 기반의 백엔드 서비스입니다. 이 프로젝트는 다양한 기능을 제공하는 RESTful API 서버입니다.
 
 [프로젝트 설명](https://github.com/CodIN-INU) / [메인 페이지](https://codin.inu.ac.kr/login) / [Figma](https://www.figma.com/design/Yd7fxwf1Y0LL03i6arejFt/CodIN?node-id=1806-19&t=RCzqo4PNunBsrZSI-1)
 
