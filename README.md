@@ -1,5 +1,14 @@
 # codin-backend
 
+![428320201-f84fba5c-a561-4a45-a585-8520d885e7e7](https://github.com/user-attachments/assets/fb8123a8-5a4e-411d-9992-51414e572255)
+![428320227-35a2c2ea-4d05-4f47-85e9-38a9b177ab5b](https://github.com/user-attachments/assets/2721b453-65e1-4342-8cc7-70aa97fc6e11)
+![428320239-b06c1792-be61-479f-bdb9-050ef84af51a](https://github.com/user-attachments/assets/72b91fe4-354d-4cf1-9fe0-8b7b5a494f24)
+![428320250-5b4513d7-4f24-4818-b7f1-3b1690c4d7f1](https://github.com/user-attachments/assets/ef70ab14-77ef-45ce-98b0-7b306002aee3)
+![428320253-3551bf4a-4c88-4524-acd1-c2481868c75d](https://github.com/user-attachments/assets/7d99fe55-1e73-43b6-aa11-46d49b56f30c)
+![428320257-fee6b0b6-9178-4f9d-8ca1-f0b51cc8ad8e](https://github.com/user-attachments/assets/43708e78-a7be-4cd3-a542-6e510f711af6)
+![428320258-161cd849-f392-4082-a384-113e08da0a95](https://github.com/user-attachments/assets/5cfda62a-4353-4e4e-8027-869bd1690765)
+![428320261-c073839f-3805-4b87-b2f7-3b27b225c893](https://github.com/user-attachments/assets/0c23982d-228a-4599-be7e-b8f51f8551e8)
+
 ## 목차
 - [codin-backend](#codin-backend)
   - [목차](#목차)
@@ -18,6 +27,8 @@
 ## 프로젝트 개요
 
 [프로젝트 설명](https://github.com/CodIN-INU) / [메인 페이지](https://codin.inu.ac.kr/login) / [Figma](https://www.figma.com/design/Yd7fxwf1Y0LL03i6arejFt/CodIN?node-id=1806-19&t=RCzqo4PNunBsrZSI-1)
+
+<img width="929" alt="428320368-91e06d3f-db49-4d00-854c-a2d9d6f0c8b0" src="https://github.com/user-attachments/assets/8b5f94bf-1e2a-4b17-b91e-20ce50c05fbd" />
 
 ## 기술 스택
 - Java 17
